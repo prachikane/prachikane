@@ -41,4 +41,4 @@ I'm a **Software Engineer** passionate about building scalable, efficient, and u
 
 ## 📫 Let's Connect!  
 
-💼 **[LinkedIn](https://linkedin.com/in/prachikane)** | 🌎 **[Portfolio](https://prachikane.github.io/PSK_Portfolio)** | ✉️ **[Email](prachikaneus@gmail.com)**  
+💼 **[LinkedIn](https://linkedin.com/in/prachikane)** | 🌎 **[Portfolio](https://datascienceportfol.io/prachikane)** | ✉️ **[Email](prachikaneus@gmail.com)**  
